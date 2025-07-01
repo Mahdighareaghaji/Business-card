@@ -20,6 +20,6 @@ A sleek, responsive digital business card with interactive hover effects, built 
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/your-username/digital-visit-card.git
-cd digital-visit-card
+git clone https://github.com/Mahdighareaghaji/Business-card.git
+cd Business-card/1.visitcard
 
